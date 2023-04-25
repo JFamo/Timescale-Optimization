@@ -6,8 +6,10 @@ name = "pypi"
 [packages]
 numpy = "*"
 tqdm = "*"
-tensorflow = "*"
 scikit-learn = "*"
+matplotlib = "*"
+tensorflow = "*"
+keras = "*"
 
 [dev-packages]
 
